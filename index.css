@@ -11,6 +11,11 @@
     color: var(--secundario);
 }
 
+body{
+    background-color: black;
+    margin: 0 50px 0 50px;
+}
+
 header{
     height: 300px;
     display: flex;
@@ -30,6 +35,10 @@ header img{
 img#hero{
     width: 200px;
     margin: 10px 0px 10px 0px;
+}
+
+nav{
+    background-color: white;
 }
 
 nav ul{
@@ -74,7 +83,7 @@ img#img_f{
 }
 
 img#img_f2{
-    width: 300px;
+    width: 400px;
 }
 
 
@@ -90,6 +99,10 @@ footer{
     width: 100%;
     display: flex;
     align-items: center;
+}
+
+img#img_c{
+    width: 20px;
 }
 
 

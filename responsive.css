@@ -1,6 +1,6 @@
 @media screen and (min-width: 500px) {
     body {
-      background-color: pink;
+      background-color: rgb(84, 7, 209);
     }
 
     #leftsidebar {width: 150px; float: left;}
